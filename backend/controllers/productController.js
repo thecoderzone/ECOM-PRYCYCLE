@@ -1,5 +1,6 @@
-const { findById, findByIdAndUpdate } = require('../models/product')
 const Product = require('../models/product')
+
+const ErrorHandler = require('../utils/errorhandler')
 
 //creating new product => /api/v1/product/new
 exports.newProduct = async(req, res, next) => {
@@ -26,14 +27,12 @@ exports.getProducts = async(req, res, next) => {
 
 // Getting single product = /api/v1/product/:id
 exports.getSingleProduct = async (req, res, next)  => {
+
      const product = await Product.findById(req.params.id);
 
      if(!product) {
-          return res.status(404).json({
-               success: false,
-               message : "product not found"
-
-          })
+          return next(new ErrorHandler('Product not found',404));
+          
      }
 
      res.status(200).json({
