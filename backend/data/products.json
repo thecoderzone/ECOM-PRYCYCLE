@@ -1,0 +1,208 @@
+[
+     {
+        "name": "Urban Commuter Bike",
+        "price": 699.99,
+        "description": "The Urban Commuter Bike is perfect for daily rides in the city. It features a lightweight frame, comfortable seat, and responsive brakes. With its sleek design and vibrant color options, you'll turn heads as you cruise through the streets. ",
+        "images":[{
+          "image_id": "product/pdstkbike01",
+          "image_url": "https://www.pexels.com/photo/black-and-white-hardtail-bike-on-brown-road-between-trees-100582/"
+        }],
+        "category" : "Bikes",
+        "stock": "50"
+     
+     },
+
+     {
+          "name": "Road Racing bike",
+          "price": 799.99,
+          "description": "Get ready to hit the pavement with the Road Racing Bike. It's built for speed and agility, with a lightweight frame and aerodynamic design. With its top-of-the-line components and smooth shifting, you'll leave your competition in the dust.",
+          "images":[{
+          "image_id": "product/pdstkbike02",
+          "image_url": "https://www.pexels.com/photo/bicycle-wheel-255934/"
+          }],
+
+          "category" : "Bikes",
+          "stock": "20"
+     },
+
+     {
+          "name": "Kids Bike",
+          "price": 299.99,
+          "description": "Introduce your child to the joys of off-road biking with the Kids' Mountain Bike. Its durable frame and suspension system make it ideal for rough terrain while its adjustable saddle and handlebars ensure a comfortable fit. Plus with its fun and vibrant color options your child will love riding it. ",
+          "images":[{
+          "image_id": "product/pdstkbike03",
+          "image_url": "https://www.pexels.com/photo/boy-riding-green-bike-1058501/"
+          }],
+
+          "category" : "Bikes",
+          "stock": "15"
+     },
+     
+     {
+          "name": "Bicycle Multi-Tool",
+          "price": 19.99,
+          "description": " Be prepared for any emergency with the Bicycle Multi-Tool. This compact and portable tool features a variety of wrenches, screwdrivers, and hex keys to fix any issue on the go. With its lightweight design and durable construction, it's a must-have for any cyclist.",
+          "images":[{
+          "image_id": "product/pdsktacces01",
+          "image_url": "https://www.pexels.com/photo/wrench-on-a-ground-5446296/"
+          }],
+          
+          "category" : "Bike Accessories",
+          "stock": "15"
+     },
+
+     {
+          "name": "Bicycle Water Bottle Holder",
+          "price": 29.99,
+          "description": " Stay hydrated on your bike rides with the Bicycle Water Bottle Holder. Made from lightweight and durable materials, it securely holds your water bottle in place while you ride. Its easy-to-install design fits most bike frames, making it a convenient and practical accessory for any cyclist..",
+          "images":[{
+          "image_id": "product/pdsktacces02",
+          "image_url": "https://www.pexels.com/photo/silver-bottle-on-gray-surface-2832062/"
+          }],
+          
+          "category" : "Bike Accessories",
+          "stock": "20"
+     },
+     {
+          "name": "Bicycle Phone Mount",
+          "price": 32.99,
+          "description": "Stay connected while cycling with the Bicycle Phone Mount. This secure and adjustable mount attaches to your handlebars, allowing you to safely use your phone while you ride. Its universal design fits most phones, making it a convenient accessory for any cyclist. ",
+          "images":[{
+          "image_id": "product/pdsktacces02",
+          "image_url": "https://www.ubuy.com.gh/product/D2JRPDVK-mokfire-bike-phone-holder-bag-bicycle-phone-mount-waterproof-bag-bike-cell-phone-case-handlebar-bag"
+          }],
+          
+          "category" : "Bike Accessories",
+          "stock": "30"
+     },
+
+     {
+          "name": "Bicycle Bell",
+          "price": 10.99,
+          "description": "Alert others of your presence on the road with the Bicycle Bell. This classic and functional accessory features a loud and clear ring, making it easy for you to signal your presence to pedestrians and other cyclists. With its easy-to-install design and compatibility with most bike handlebars, it's a must-have for any cyclist.",
+          "images":[{
+          "image_id": "product/pdsktacces03",
+          "image_url": "https://www.pexels.com/photo/brass-bicycle-bell-107510/"
+          }],
+          
+          "category" : "Bike Accessories",
+          "stock": "50"
+     },
+
+     {
+          "name": "Skateboard Bearings",
+          "price": 30.99,
+          "description": "upgrade the performance of your skating board",
+          "images":[{
+          "image_id": "product/pdsktacces01",
+          "image_url": "https://www.amazon.in/Bearings-Skateboard-Shielded-Miniature-Skateboards/dp/B07R7PR72H"
+          }],
+          
+          "category" : "Skate Accessories",
+          "stock": "15"
+     },
+
+     {
+          "name": "Skateboard Riser Pads",
+          "price": 30.99,
+          "description": "Protect your skateboard deck and improve your ride with the Skateboard Riser Pads. Made from durable and shock-absorbing materials, they prevent wheel bite and provide a smoother ride. With their easy-to-install design and compatibility with most skateboard brands, they're a must-have for any skateboarder looking to improve their performance.",
+          "images":[{
+          "image_id": "product/pdsktacces02",
+          "image_url": "https://www.carousell.sg/p/bones-1-8-3mm-skateboard-riser-pads-1205091049/"
+          }],
+          
+          "category" : "Skate Accessories",
+          "stock": "15"
+     },
+
+     {
+           "name": "Skateboard Wax",
+          "price": 10.99,
+          "description": "Get better slide and board control with the Skateboard Wax. Made from high-quality materials and designed for performance, it provides a smooth and consistent surface for your skateboard. With its easy-to-apply design and compatibility with most skateboard brands, it's a must-have for any skateboarder looking to improve their rides.",
+          "images":[{
+          "image_id": "product/pdsktacces02",
+          "image_url": "https://shop.ccs.com/products/ccs-skateboard-wax-blue"
+          }],
+          
+          "category" : "Skate Accessories",
+          "stock": "50"
+     },
+
+     {
+          "name": "Electric Cruiser Bike",
+          "price": 1499.99,
+          "description":"Cruise around town in style with the Electric Cruiser Bike. Its powerful motor and long-lasting battery make it easy to ride, while its comfortable saddle and wide handlebars ensure a relaxed and enjoyable experience. Plus, with its retro design and fun color options, you'll feel like you're in a different era. " ,
+          "images":[{
+          "image_id": "product/pdsktacces03",
+          "image_url": "https://www.pexels.com/photo/man-and-woman-riding-electric-bikes-15218746/"
+          }],
+          
+          "category" : "Bikes",
+          "stock": "40"
+     },
+
+     {
+          "name": "Cruiser Bike with Basket",
+          "price": 499.99,
+          "description": "Take a leisurely ride around town with the Cruiser Bike with Basket. Its comfortable saddle and wide handlebars make it easy to ride, while its included basket makes it perfect for carrying your groceries or other essentials. Plus, with its retro design and fun color options, you'll feel like you're on vacation every time you ride it. " ,
+          "images":[{
+          "image_id": "product/pdsktacces03",
+          "image_url": "https://www.pexels.com/photo/vintage-bicycle-with-basket-near-wall-4916682/"
+          }],
+          
+          "category" : "Bikes",
+          "stock": "35"
+     },
+
+     {
+          "name": "Gravel Bike",
+          "price": 699.99,
+          "description": "Take on any terrain with the Gravel Bike. Its sturdy frame and high-performance components make it perfect for off-road adventures, while its comfortable saddle and responsive brakes ensure a safe and enjoyable ride. Plus, with its sleek and modern design, you'll look and feel like a pro on every trail. " ,
+          "images":[{
+          "image_id": "product/pdsktacces03",
+          "image_url": "https://pixabay.com/photos/bike-way-asphalt-expedition-5141597/"
+          }],
+          
+          "category" : "Bikes",
+          "stock": "30"
+     },
+
+     {
+          "name": "Pro Skateboard",
+          "price": 99.99,
+          "description": "Take your skateboarding skills to the next level with the Pro Skateboard. Its sturdy construction and high-quality components make it perfect for advanced tricks and maneuvers, while its sleek and stylish design ensures you'll look good doing it. Plus, with its smooth and responsive ride, you'll never want to stop skating.",
+          "images":[{
+          "image_id": "product/pdsktsktes03",
+          "image_url": "https://pixabay.com/photos/dog-canine-pet-cute-portrait-3290656/"
+          }],
+          
+          "category" : "Skateboards",
+          "stock": "20"
+     },
+
+     {
+          "name": "Electric Skateboard",
+          "price": 899.99,
+          "description": "Take the hassle out of skateboarding with the Electric Skateboard. Its powerful motor and long-lasting battery make it easy to ride uphill and against the wind, while its comfortable deck and responsive brakes ensure a safe and enjoyable ride. Plus, with its sleek and modern design, you'll turn heads on every street corner.",
+          "images":[{
+          "image_id": "product/pdsktsktes03",
+          "image_url": "https://evolveskateboardsusa.com/products/stoke-board"
+          }],
+          
+          "category" : "Skateboards",
+          "stock": "30"
+     },
+
+     {
+          "name": "Kicktail Skateboard",
+          "price": 899.99,
+          "description": "Perfect your flips and tricks with the Kicktail Skateboard. Its sturdy and durable construction make it perfect for advanced maneuvers and tricks, while its responsive trucks and smooth wheels ensure a smooth ride. Plus, with its edgy and bold design, you'll look and feel like a pro. ",
+          "images":[{
+          "image_id": "product/pdsktsktes03",
+          "image_url": "https://www.pexels.com/photo/a-person-wearing-loose-clothing-riding-a-skateboard-10123268/"
+          }],
+          
+          "category" : "Skateboards",
+          "stock": "50"
+     }
+]

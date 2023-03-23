@@ -1,0 +1,30 @@
+{
+  "name": "ecom-prycycle",
+  "version": "1.0.0",
+  "description": "backend in Mern",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT & nodemon backend/server",
+    "prod": "SET NODE_ENV=PRODUCTION & nodemon backend/server",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "author": "Sylvester Sipitey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecoderzone/PryCycle-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thecoderzone/PryCycle-API/issues"
+  },
+  "homepage": "https://github.com/thecoderzone/PryCycle-API#readme"
+}
